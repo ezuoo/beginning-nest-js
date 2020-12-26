@@ -22,8 +22,13 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## beginning-nest-js
+## Beginning-nest-js
+
 Learning Nestjs by making something API using RESTfulAPI
+
+## with
+
+https://nomadcoders.co/nestjs-fundamentals/
 
 ## Description
 
